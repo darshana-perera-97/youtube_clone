@@ -1,0 +1,1 @@
+export const clrs = ["#202020","#ccc8c8","white"]
